@@ -1,0 +1,21 @@
+F:\Hnd computing\VBprojects\Wages Calculator\Wages Calculator\bin\Debug\Wages Calculator.exe.config
+F:\Hnd computing\VBprojects\Wages Calculator\Wages Calculator\bin\Debug\Wages Calculator.exe
+F:\Hnd computing\VBprojects\Wages Calculator\Wages Calculator\bin\Debug\Wages Calculator.pdb
+F:\Hnd computing\VBprojects\Wages Calculator\Wages Calculator\bin\Debug\Wages Calculator.xml
+F:\Hnd computing\VBprojects\Wages Calculator\Wages Calculator\obj\Debug\Wages_Calculator.Form1.resources
+F:\Hnd computing\VBprojects\Wages Calculator\Wages Calculator\obj\Debug\Wages_Calculator.Resources.resources
+F:\Hnd computing\VBprojects\Wages Calculator\Wages Calculator\obj\Debug\Wages Calculator.vbproj.GenerateResource.Cache
+F:\Hnd computing\VBprojects\Wages Calculator\Wages Calculator\obj\Debug\Wages Calculator.exe
+F:\Hnd computing\VBprojects\Wages Calculator\Wages Calculator\obj\Debug\Wages Calculator.xml
+F:\Hnd computing\VBprojects\Wages Calculator\Wages Calculator\obj\Debug\Wages Calculator.pdb
+C:\Users\Adamm\Documents\Work Related Stuff\Hnd computing\VBprojects\Wages Calculator\Wages Calculator\bin\Debug\Wages Calculator.exe.config
+C:\Users\Adamm\Documents\Work Related Stuff\Hnd computing\VBprojects\Wages Calculator\Wages Calculator\bin\Debug\Wages Calculator.exe
+C:\Users\Adamm\Documents\Work Related Stuff\Hnd computing\VBprojects\Wages Calculator\Wages Calculator\bin\Debug\Wages Calculator.pdb
+C:\Users\Adamm\Documents\Work Related Stuff\Hnd computing\VBprojects\Wages Calculator\Wages Calculator\bin\Debug\Wages Calculator.xml
+C:\Users\Adamm\Documents\Work Related Stuff\Hnd computing\VBprojects\Wages Calculator\Wages Calculator\obj\Debug\Wages_Calculator.Form1.resources
+C:\Users\Adamm\Documents\Work Related Stuff\Hnd computing\VBprojects\Wages Calculator\Wages Calculator\obj\Debug\Wages_Calculator.Resources.resources
+C:\Users\Adamm\Documents\Work Related Stuff\Hnd computing\VBprojects\Wages Calculator\Wages Calculator\obj\Debug\Wages Calculator.vbproj.GenerateResource.Cache
+C:\Users\Adamm\Documents\Work Related Stuff\Hnd computing\VBprojects\Wages Calculator\Wages Calculator\obj\Debug\Wages Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\Adamm\Documents\Work Related Stuff\Hnd computing\VBprojects\Wages Calculator\Wages Calculator\obj\Debug\Wages Calculator.exe
+C:\Users\Adamm\Documents\Work Related Stuff\Hnd computing\VBprojects\Wages Calculator\Wages Calculator\obj\Debug\Wages Calculator.xml
+C:\Users\Adamm\Documents\Work Related Stuff\Hnd computing\VBprojects\Wages Calculator\Wages Calculator\obj\Debug\Wages Calculator.pdb
